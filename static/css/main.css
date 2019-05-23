@@ -1,0 +1,40 @@
+body{
+	background-color: white;
+}
+
+.jumbotron{
+	background: url('../images/bacteria.jpg');
+	min-height: 200px;
+	background-size: cover;
+}
+
+.custom-panel{
+	margin-top: 60px;
+}
+.panel-primary {
+    border-color: #e3e3e3;
+}
+.panel-primary>.panel-heading{
+	background-color:#78C2AD;
+	border-color:#e3e3e3; 
+}
+
+.panel-body {
+    background-color: #f5f5f5;
+}
+
+.banner-text h1{
+	font-family: "Source Sans Pro";
+	color: white;
+	font-size: 58px;
+	letter-spacing: 10px;
+	font-weight: bold;
+}
+
+.banner-text p{
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
